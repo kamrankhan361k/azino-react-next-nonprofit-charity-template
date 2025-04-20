@@ -1,1 +1,1 @@
-# azino-react-next-nonprofit-charity-template
+# azino-react
